@@ -5,6 +5,9 @@
 # Informe
 Aca va enlace al informe final
 
+# Codigo
+Enlace al .R final
+
 # Integrantes
 
 Luis Paredes 104851
