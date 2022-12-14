@@ -6,8 +6,9 @@
 Aca va enlace al informe final
 
 # Codigo
-Enlace al .R final
+https://github.com/LuisParedes1/TP-Proba/blob/master/tp_oblig.R
 
 # Integrantes
 
-Luis Paredes 104851
+Luis Paredes 
+Franco Gazzola
